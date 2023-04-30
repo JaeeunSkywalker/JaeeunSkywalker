@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there! 👋
 😺 My name is Jaeeun.<br>
 🌱 I’m currently learning Flutter and Node.js.<br>
 🤔 I'm super interested in WEB3 and Server-side programming languages.<br>
