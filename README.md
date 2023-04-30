@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😺 My name is Jaeeun.<br>
+🌱 I’m currently learning Flutter and Node.js.<br>
+🤔 I'm super interested in WEB3 and Server-side programming languages.<br>
+🤝 I’m looking to collaborate on projects and businesses related to the above-mentioned fields.<br>
+📫 Contact me at lovejaeeundev@gmail.com.<br>
