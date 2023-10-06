@@ -1,4 +1,4 @@
-<img src="https://tryhackme-badges.s3.amazonaws.com/lovejaeeundev.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/lovejaeeundev.png" alt="TryHackMe"><br>
 우리는 한 지점에서 다른 한 지점으로 가장 빨리 가는 직선을 그리기 위해 조급함과 초조함을 안고 삽니다.<br>
 하지만 비범한 성과는 이 직선 위에서는 만날 수 없습니다. 가장 빨리 결승선을 통과하는 사람은 가장 많은 거리를 뛰어온 사람이기 때문입니다.<br>
 우리가 좌절감, 초조함, 조급함을 극복하는 비결은 간단합니다.<br>
